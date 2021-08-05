@@ -2,3 +2,4 @@
 
 
 echo foo bar
+echo nate was here
