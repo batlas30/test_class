@@ -2,4 +2,4 @@
 
 
 echo foo bar
-echo nate is great
+echo nate is hate
